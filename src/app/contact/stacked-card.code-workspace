@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "stacked-card",
+			"path": "../../.."
+		},
+		{
+			"name": "tnsq",
+			"path": "../../../../../../../Downloads/tnsq"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "stacked-card"
+	}
+}

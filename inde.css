@@ -1,0 +1,36 @@
+* {
+  color: white;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 20px;
+}
+
+.container div {
+  cursor: pointer;
+  padding: 6px 10px;
+  border-radius: 6px;
+
+  background-color: rgb(3, 43, 44);
+
+  transition: all 0.5s;
+}
+.container div:hover {
+  scale: 1.5;
+  margin: 0px 20px;
+  background-color: rgb(64, 109, 110);
+}
+h6 {
+  width: 200px;
+  line-height: 50px;
+}
